@@ -22,6 +22,9 @@ Demand paging system을 위한 page replacement 기법 구현 및 검증
 ### ✅ 가정
 Page frame 할당량 및 window size 등은 입력으로 결정
 
+<br />
+
+  
 ### ✅ 입력 포맷
 N M W K
 r1 r2 r3 r4 r5 ∙∙∙ rK
@@ -35,9 +38,13 @@ W는 window size (최대 100, WS 기법에서만 사용)
 K는 page reference string 길이 (최대 1,000)
 
 
-#### 개발 환경 
-WindowS
-#### 개발 플랫폼 
-VSCODE
-#### 언어 
-Python
+<br />
+
+  
+#### 개발 환경 WindowS
+#### 개발 플랫폼 VSCODE
+#### 언어 Python
+
+<br />
+
+  
