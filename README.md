@@ -4,7 +4,8 @@ Demand paging system을 위한 page replacement 기법 구현 및 검증
 <br />
 
 ### ✨ 프로젝트 내용
-#### 주어진 page reference string을 입력 받아, replacement 기법으로 처리했을 경우의 memory residence set 변화 과정 및 page fault 발생 과정 추적/출력
+#### 주어진 page reference string을 입력 받아, 
+#### replacement 기법으로 처리했을 경우의 memory residence set 변화 과정 및 page fault 발생 과정 추적/출력
 
 <br />
 
