@@ -32,7 +32,9 @@ r1 r2 r3 r4 r5 ∙∙∙ rK
 
 ### Example
 `6 3 3 15`
+<br />
 `0 1 2 3 2 3 4 5 4 1 3 4 3 4 5`
+<br />
 N은 process가 갖는 page 개수 (최대 100)
 M은 할당 page frame 개수 (최대 20, WS 기법에서는 비사용)
 W는 window size (최대 100, WS 기법에서만 사용)
